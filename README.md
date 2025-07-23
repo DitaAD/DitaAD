@@ -11,11 +11,12 @@ I enjoy making design for front end of website and apps.
   <a href="mailto:ditaad.04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/dita-annisa-diningtyas-9a9b73307/)" target="_blank">
+  <a href="https://www.linkedin.com/in/dita-annisa-diningtyas-9a9b73307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
+<!--
 ---
 
 ## 💻 Languages I Use Most
@@ -24,10 +25,9 @@ I enjoy making design for front end of website and apps.
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <!-- Add/remove as you see fit -->
 </p>
 
----
+-->
 
 
 <!--
